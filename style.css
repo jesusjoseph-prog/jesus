@@ -1,14 +1,26 @@
 body{
-  background-color: bisque;
+  background-color: rgb(20, 20, 20);
 }
 h1{
-    color: rgb(231, 210, 181);
+    color: rgb(245, 240, 240);
 font-size: medium;
 text-align: center;
-
 }
 p{
-color: rgb(231, 210, 181);
-font-size: medium;
-text-align: center;
+     color: rgb(0, 0, 0);
+  font-size: medium;
+  text-align: center;
 }
+img{
+  width: 20%;
+  margin-left: 610px;
+  border:10px solid rgb(68, 0, 255) ;
+  border-bottom: 10px dotted rgb(68, 0, 255);
+  }
+  imghtml{
+    width: 20%;
+    margin-left: 610px;
+    border: 10px solid blue;
+    border-bottom: 10px dotted black;
+  }
+
